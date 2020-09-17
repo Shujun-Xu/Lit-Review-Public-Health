@@ -7,4 +7,8 @@
 * For Chicago, although city ordinance does not require all businesses to provide paid parental leave and employers, under former Mayor Rahm Emanuel’s policy, non-union city employees who are FMLA-eligible can have six weeks of maternity leave for birth via C-section & four weeks for vaginal birth, and two weeks for fathers and adoptive parents. This benefit was funded from the city budget and must run concurrently with FMLA. Otherwise, new parents may access paid parental leave if offered by their employers, or store up vacation days and unused sick leave, or take advantage of temporary disability insurance benefits to get at least some pay for the time off with the birth or adoption of a child.
 * This policy brief suggested that the Department of Health should take a position of "SUPPORT" on this question. Relevant data/studies/evidence/examples/media coverage were summarized to support the argument and potential allies/opponents were also identified.
 
-
+#### Health Promotion : Use of fear in public education campaigns-does it work ?
+* About “Scare tactics or threat appeals” : Health Care or Health Scare ? 
+* A history of fear-based messaging in public health
+* Effectiveness of fear appeal (Theories and meta-analyses)
+* Evidence-based intervention
