@@ -9,6 +9,6 @@
 
 #### Health Promotion : Use of fear in public education campaigns-does it work ?
 * About “Scare tactics or threat appeals” : Health Care or Health Scare ? 
-* A history of fear-based messaging in public health
+* A history of fear-based messaging in public health (Anti-tobacco and anti-AIDS public health campaigns)
 * Effectiveness of fear appeal (Theories and meta-analyses)
 * Evidence-based intervention
